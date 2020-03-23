@@ -1,0 +1,1 @@
+We perform inference via Markov chain Monte-Carlo (MCMC) using the Li and Stephens approximation to the coalescent with recombination [1], with one further key approximation. Consider two data sets: 

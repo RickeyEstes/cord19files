@@ -1,0 +1,1 @@
+Epidemiological outbreak data is often captured in line list and contact format to facilitate contact tracing for outbreak control. is an R epicontacts package that provides a unique data structure for combining these data into a single object in order to facilitate more efficient visualisation and analysis. 

@@ -1,0 +1,1 @@
+medRxiv preprint SEIR-PO models generally show a better performance than SIR, SEIR and SEIR-AHQ models on the COVID-19 epidemics, whose success could be attributed to the inclusion of self-protection and quarantine, and a proper trade-off between model complexity and fitting accuracy. 
