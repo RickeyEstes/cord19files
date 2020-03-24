@@ -1,0 +1,1 @@
+Our models are numerical analyses of ordinary differential equations. The equations are given in supporting information (S1 Appendix). The were numerically evaluated and graphed in R (S1 File, a Markdown file), sometimes also evaluated in Mathematica (S2 File). 

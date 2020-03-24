@@ -1,0 +1,1 @@
+In this paper, we proposed two classifiers for predicting RPIs based on different representations of protein sequences. For the RPiRLS classifier, each amino acid sequence comprised up to 20 different amino acids. While for the RPiRLS-7G classifier, we adopted the same amino acid classification approach as [26, 29] .  
