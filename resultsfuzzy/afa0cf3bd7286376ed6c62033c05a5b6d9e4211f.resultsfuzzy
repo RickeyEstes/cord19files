@@ -1,0 +1,4 @@
+Our parameterization of carrying capacity, defined as K = (b 0 − d 0 )/b 1 did not influence model predictions ( Figure A1 ). We examined a broad range of carrying capacities, finding that the estimation of pathogen invasion probability was insensitive to changes in carrying capacity. The value of b 1 in the main text corresponds to a carrying capacity of 640 individuals L −1 , which was the maximum density we examined in our experimental infection trials. However, as we demonstrate here, our findings are robust to other values of b 1 . This is not surprising, as the focus is on the transient period after pathogen exposure, such that carrying capacity does not play a large role in pathogen invasion.  
+
+
+Section:sensitivity of results to parameterization of carrying capacity

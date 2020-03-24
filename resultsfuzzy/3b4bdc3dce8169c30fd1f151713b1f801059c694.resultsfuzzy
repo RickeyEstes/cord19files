@@ -1,0 +1,4 @@
+In this section, we will discuss the use of the generalized PseAAC. As can be seen from Eqs (7) and (8), the present mathematical descriptor contains four uncertain parameters: , w 1 , w 2 and w 3 . Here represents the total number of correlation ranks counted (cf. Eq(6)), which is an integer. Generally speaking, the greater the value of , the more sequence-order effects will be incorporated. However, if the value is too large, it might cause the overfitting problem or 'high dimension disaster' [15] , therefore, we endeavour to limit the value of to a small integer. In this study, the five datasets (BetaSet, CoVSet, DNASet, DNAeSet and DNAiSet) are arranged into two groups: one contains BetaSet, the other includes the rest. The first group is used for determining the four adjustable parameters, and the second group for testing purpose. 
+
+
+Section:results and discussion

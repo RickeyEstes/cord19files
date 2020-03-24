@@ -1,0 +1,4 @@
+The http://www.socialcontactdata.org initiative, status 1 March 2020, includes data for Belgium, Finland, Germany, Italy, Luxembourg, Netherlands, Poland and the UK from the POLYMOD study [4] , as well as data from further studies of social mixing in France [17] , China [18] , Hong Kong [19] , Peru [20] , UK [21] , Russia [22] , Zimbabwe [23] , South Africa and Zambia [24] . All data are available on Zenodo [25] [26] [27] [28] [29] [30] [31] [32] [33] and can be retrieved from within R using the socialmixr package. Survey details are provided in the systematic review of Hoang et al [3] . The data sets for France and Zimbabwe contain multiple days per participant, hence we selected the first day for each participant (to minimise the effect of reporting fatigue). 
+
+
+Section:results and discussion

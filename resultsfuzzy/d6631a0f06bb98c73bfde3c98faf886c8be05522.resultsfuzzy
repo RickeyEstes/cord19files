@@ -1,0 +1,5 @@
+We now illustrate the impact of reporting issues on the standard error of the estimators,R 0 and  R 0 using the formula provided in [21] and given by Proposition A2. If q t = q 1 , t ≤ t c and q t = q 2 , t > t c then i. If q 1 < q 2 < 1 then SE R R SE ( ) ( ) 0 0 >  . ii. If q 1 > q 2 > 1 then SE R R SE ( ) ( ) 0 0 <  . iii. If q 2 > q 1 > 1 or q 2 <q 1 < 1 then the results for the SE are not clearly defined. Following are the results when we consider that only a fraction of the total cases in La Gloria were actually of the pH1N1 strain. For this scenario, we simulate 1000 datasets, as before. These datasets are interpreted as providing the total number of ILI cases. Of these, we assume that only a proportion is actually of the pandemic strain. We allow this to be 0.25, 0.50, or 0.75. Cases are randomly selected as pH1N1 cases and included in the analysis. Results are given in Tables 2  and 3 . 
+
+
+Section:results for the standard error of the reproductive number
+Section:results for overreporting in la gloria

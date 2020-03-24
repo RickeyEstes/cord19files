@@ -1,0 +1,4 @@
+The sequence reads from the FASTQ formatted sequence data were assembled and contigs generated using the CLC Genomics Workbench. The generated 728-2407 contigs containing 477,632-923,026 sequence reads from five samples were analyzed using a BLAST search against non-redundant databases. The BLAST search using contigs identified 73,039-464,263 (7.4-77.5%), 52,382-698,684 (11.0-70.7%), 2850-9734 (0.5-1.1%) and 20-10,345 (0.0-1.2%) reads as RVA, non-pathogenic bacteria, mammalian and plant, and plant virus, respectively. Apart from RVA, no other genomes of virus pathogens of bovine were detected from sequencing reads. 
+
+
+Section:analysis of resultant contigs using blast

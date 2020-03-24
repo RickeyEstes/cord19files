@@ -1,0 +1,4 @@
+The dimensionless model (2.4) is now analysed to understand how the dynamics change under parameter variation. We calculate the equilibria of (2.4), conduct a linear stability analysis, and identify analytical conditions that lead to transcritical and Hopf bifurcations. We find that curves of these bifurcations can intersect at specific points in parameter space, giving rise to degenerate Bogdanov-Takens (DBT) and zero-Hopf (DZH) bifurcations. The role of DBT and DZH bifurcations is to organize the stability (or phase) diagram into regions with distinct dynamics. The numerical continuation package MATCONT [64] is used to track how the equilibria and bifurcations evolve as the infection rate, virulence, and mutation rate are varied. The MATCONT source code and data are available online [65] . 
+
+
+Section:results and discussion

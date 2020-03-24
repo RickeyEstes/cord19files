@@ -1,0 +1,4 @@
+In the first step an average of 550,500 non-unique sequence probes were selected from the alignment. Furthermore probe sequences were clustered in order to remove the repeated ones and to select only those with entropy higher than a convenient threshold (ProbeSearch). Calcprobes is responsible for applying the design parameters explained in the methodology. After the above-mentioned, we performed a third selection, by removing sequences containing probes with the lowest entropy values and taking probes with a Tm range of 34.5 to 36.5°C and free energy values between -9.00 and -13.5Kcal/mol. 
+
+
+Section:results & discussion:

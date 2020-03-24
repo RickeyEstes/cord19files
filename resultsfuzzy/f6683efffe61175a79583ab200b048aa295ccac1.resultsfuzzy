@@ -1,0 +1,4 @@
+The graph in Fig. 3 represents the three variables in our analysis (MERS epidemic, mass media, and public emotion) by vertices and their interactions by edges. The objective of our experiment was to reveal the interactions between these variables. Thus, we collected the time-series of the numbers of confirmed MERS cases and people under quarantine (for the MERS variable), the online articles (for the mass media variable), and the short-text comments on the articles (for the public emotion variable) for 70 days of the MERS outbreak in Korea. For comparative analysis, we also collected articles and comments on H1N1 influenza and Ebola hemorrhagic fever. Table 1 summarizes the statistics of the data used in our study. 
+
+
+Section:experimental results

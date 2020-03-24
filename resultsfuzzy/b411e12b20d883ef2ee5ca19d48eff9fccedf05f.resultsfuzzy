@@ -1,0 +1,4 @@
+The CVTree result page shows the run-time information and displays the final results when calculation ends. The CVTree web server returns three kinds of result files: (1) a dissimilarity matrix file matrix.txt: this file can be used to construct the phylogenetic trees by calling different programs of the user's choice. (2) Two Newick tree format files: NJtree.nwk for a full tree and Genus NJtree.nwk for a tree 'collapsed' to genus level. These files can be viewed in MEGA and in some other phylogenetic programs. (3) Two ASCII tree files: NJtree.txt for a full tree and Genus_NJtree.txt for a tree collapsed to genus level. These files can be displayed directly in any text editor with monospace font. The result page appears with the five file names listed in the upper part and the NJtree.txt displayed as default in the lower window. By clicking at a file name any of the five files may be displayed. 
+
+
+Section:result page

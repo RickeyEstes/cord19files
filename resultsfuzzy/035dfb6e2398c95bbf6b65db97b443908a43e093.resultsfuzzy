@@ -1,0 +1,4 @@
+As outlined above, the aim of the presented work was to provide a tool for the automated sensitive and reliable taxonomic classification of all individual reads comprised in metagenomics sequence datasets. The flow of the analyses performed by RIEMS including a rationale for the combination and order of the different software tools is described in detail in the Methods section. The most important output of RIEMS is a tabular summary of the classifications plus the sorted reads for further use and additional information regarding the different analyses that were carried out. 
+
+
+Section:results and discussion

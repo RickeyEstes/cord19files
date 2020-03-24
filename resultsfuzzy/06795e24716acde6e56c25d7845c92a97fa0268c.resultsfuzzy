@@ -1,0 +1,4 @@
+Optimization of the SISPA method for whole genome sequencing Given the success of earlier efforts for the identification of novel viral nucleic acids using SISPA, we sought to adapt and optimize this method as a general and cost effective technique for large scale de novo viral genome sequencing (Figures 1 and 2 ). An RNase treatment step was added to the SISPA protocol to reduce contaminating exogenous RNAs such as ribosomal RNAs. In the case of polyA-tailed viruses, we perform reverse transcription using a combination of random (FR26RV-N) and poly T tagged (FR40RV-T) primers in order to increase the coverage of the 3' end ( Figure 2 ). Additionally, in order to capture 5' ends of viral RNA, a random hexamer primer tagged with a conserved sequence at the 5' end was added to the Klenow reaction (Figure 2 shows a 5' oligo specific for rhinoviruses). 
+
+
+Section:results and discussion

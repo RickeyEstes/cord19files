@@ -1,0 +1,4 @@
+In order to further our studies on the insulin receptor, we used the Umbrella Visualization on the insulin receptor ectodomain (extracellular part of the protein) dimer. After detailing our systems and the forcefields used in the MD trajectories, we tested the Umbrella Visualization on a small samples of frames of a mono-glycosylated IR in order to evaluate the relevance of this method. Then, thanks to the identification of two glycosylation sites on previous studies, we ran a comparative preliminary study on the impact of bi-antennary and triantennary glycans on the insulin receptor. Finally, we focus on the performances of this method by comparing the quality and time needed to compute the results depending on the number of frames to analyze. 
+
+
+Section:preliminary results and application on a biologically relevant system

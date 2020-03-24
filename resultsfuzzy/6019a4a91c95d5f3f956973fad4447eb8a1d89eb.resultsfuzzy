@@ -1,0 +1,4 @@
+Independent of the actual VS strategy applied, docking and subsequent scoring of the suggested solutions is the key performancedetermining factor in VS. The discriminatory power of the applied scoring function is of utmost importance for ranking, and hopefully enriching, potentially active binders at the top of the list of docking solutions. In consequence, a myriad of scoring functions has been developed over the past few years [114] [115] [116] . Approaches have been taken not simply to rely on one single function but to take on board the consensus picture of several scoring schemes [117, 118] . 
+
+
+Section:scoring, ranking and validation of vs docking results

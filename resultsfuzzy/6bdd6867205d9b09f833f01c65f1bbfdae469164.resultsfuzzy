@@ -1,0 +1,4 @@
+The copyright holder for this preprint (which was not peer-reviewed) is . https://doi.org/10.1101/2020.02.23.20026930 doi: medRxiv preprint proposed DRENet architecture, we also employed deep residual network (Resnet), 13 DenseNet 17 , and VGG16 18 for comparisons. As shown in Table 1 , by selecting the top-K important details and the relationships among them, our DRE-Net improves about 7.0% recall and 3.0% F1-score over VGG16 with the same fold assignments, respectively. Figure 2 shows the receiver-operating characteristic curves for comparisons with other baseline models and the confusion matrix of DRE-Net on the test set.  
+
+
+Section:results and discussion

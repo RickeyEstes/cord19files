@@ -1,0 +1,4 @@
+The assembly results on SARS-Cov aligned and recruited reads are shown in Table S1 . bowtie2 -x Bat_coronavirus -f -a --score-min L,0,-0.6t -p 16 -S bat_corona_align.sam" sars_meta_whole. fa 
+
+
+Section:read recruitment and assembly results for simulated sars-cov data

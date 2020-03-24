@@ -1,0 +1,4 @@
+The profiling results are presented in two HTML tables, designated MoleculeFits and PharmacophoreFits. Two descriptors, fit value and shape similarity, were used to measure the fitness of the ligand and pharmacophore. A fit value equal to or greater than 0.3 was used as a heuristic threshold to select targets from the activity profiler. For each pharmacophore model, the classification information of the target can be indicated in a HTML table created by DS 3.5 called as Pharmacophores. Finally, 98 pharmacophore models were mapped. The models belonged to 65 protein targets, and were involved in 60 pathways. A complete list of the 241 target-ligand pairs is shown in Table 2 . The name and indication information of the targets are shown in Table 3 . The 13 targets verified by HypoDB screening are marked with an asterisk in Table 3 . 
+
+
+Section:results and discussion

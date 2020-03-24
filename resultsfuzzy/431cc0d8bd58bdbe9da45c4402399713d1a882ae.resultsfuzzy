@@ -1,0 +1,4 @@
+Each alert message is a structured collection of fixed-value and free-form data fields. The structured message approach was selected to represent public health alerts. The authors in partnership with public health experts defined a message structure to support the development of a fully configurable repository with fields that sufficiently describe the public health alert. The structure also supported the ability to add special instructions to the alert in the AKR to prompt clinicians to ask specific questions or perform more specific laboratory or radiology tests to confirm or exclude their patient from the public health risk. Additionally, other information that may impact the treatment decisions of the clinician for their patients may be provided. 
+
+
+Section:figure 8 http formatted results for a health alert query

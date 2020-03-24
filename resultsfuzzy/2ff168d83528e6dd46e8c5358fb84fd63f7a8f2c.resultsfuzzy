@@ -1,0 +1,4 @@
+Among the tested combination approaches of the subsequencepredictions, std-div was observed to perform best (see Table 2 ). With the combination of all subsequence predictions, the accuracy rises between 2.2 %-4.6 %, with a mean increase of 3.2 %. This result shows that a combination of the host prediction results of all subsequences of a given viral sequence can increase the overall prediction accuracy. Presumably, the prediction combination approaches can compensate for the possible information loss caused by the sequence splitting process during the input preparation. 
+
+
+Section:combining subsequence host predictions results in higher accuracy

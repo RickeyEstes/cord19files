@@ -1,0 +1,4 @@
+We built the RPI-Pred method for identifying binding partners of proteins or RNAs. In this section, we tested the performance of RPI-Pred on different test data sets, including RPI1807, RPI2241 and RPI369, and compared with previous methods. We also applied the RPI-Pred method to a large ncRPI data set and the predicted results were compared with other existing approaches. 
+
+
+Section:results and discussion

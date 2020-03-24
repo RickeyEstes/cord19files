@@ -1,0 +1,4 @@
+For compartmental epidemic models, the reproductive number 0 is determined by the transmission rate and the infectious period 1/ ( 0 = / ), while in structural model, 0 is determined by the characteristics of both the virus and the structure of the population and the computation is more complicated. An alternative method is to simulate an epidemic and look at the intrinsic growth rate of the infected population [31] [32] [33] [34] . This growth rate is defined as the rate at which the total number of infectives, , grows in a susceptible population. The relationship between 0 and could be derived by the expression of 0 in terms of the model parameters and the spectral radium of the Jacobian matrix of the dynamic equations, evaluated at 0 = 1. The SEIR dynamics are defined by the following four differential equations:̇=  The corresponding characteristic equation of the Jacobian matrix is Therefore 0 = = ( + ) ( + ) .  
+
+
+Section:results and discussion

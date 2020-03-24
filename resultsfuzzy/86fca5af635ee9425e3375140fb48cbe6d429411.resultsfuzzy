@@ -1,0 +1,4 @@
+High-throughput sequencing on the Illumina GAII yielded 4-24 million 36 bp sequences (''reads'') from each of the 28 brain specimens (17 MS, 11 normal controls). These reads are designated as ''high quality reads'' in Table S1 . These sequences represent cellular RNA, not DNA, and therefore correspond either to viral genomes or to actively transcribed genes, both human and nonhuman, present in the specimen. Human and ribosomal reads were subtracted from the dataset, providing 0.9-7.4 million screened reads for analysis. There were no significant differences in the number of high quality reads or screened reads between the MS and control specimens (p.0.5 by Mann-Whitney testing). 
+
+
+Section:deep sequencing results

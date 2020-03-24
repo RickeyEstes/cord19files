@@ -1,0 +1,4 @@
+The statistical methods used to fit a model with the observed data were assessed with information criteria (such as Akaike Information Criterion, AIC and Bayesian Information Criterion, BIC) in almost 20% of cases. In a significant proportion of papers (10%), the validation of the method was based on out-of-sample predictions, i.e. a subset of the data were used to train/calibrate the method (e.g. to estimate model parameters), and then the method was applied to the rest of the data. In some cases, there was no assessment of the methods. Situations where the methods did not require comparison with real data (e.g. theoretical works requiring solely logical demonstration of theorems) were also present. 
+
+
+Section:6) how were the results assessed?

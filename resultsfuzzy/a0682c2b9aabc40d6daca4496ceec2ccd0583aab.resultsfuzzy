@@ -1,0 +1,4 @@
+To further increase the specificity and range of B-cell epitopes, Discotope 2.0 server was used which calculate surface availability in term of residue contact number and novel tendency amino acid score was utilized to predict the discontinuous epitopes. 3D structure of S protein (PDB ID: 5X59) [19] was used for discontinuous epitopes prediction, 90% specificity, − 3.700 threshold and 22.000 Angstroms propensity score radius. Total 22 discontinuous epitopes were calculated at different exposed surface areas ( Table 2 ). Position of each predicted epitope on surface of 3D structure of S protein shown in Fig. 4 using Pymol [33] . 
+
+
+Section:result of kolaskar and tongaonkar analysis are shown in

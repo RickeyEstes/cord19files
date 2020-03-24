@@ -1,0 +1,4 @@
+Next, we examine several interesting properties of AS and test its performance against strategies based on degree centrality (DCS), betweenness centrality (BCS), and closeness centrality (CCS). Both stylized, computer-generated networks and realworld, empirical networks are used in the performance tests. Additionally, the success of immunization is tested in conjunction with a susceptible-infectious-recovered (SIR) model. 
+
+
+Section:results and discussion

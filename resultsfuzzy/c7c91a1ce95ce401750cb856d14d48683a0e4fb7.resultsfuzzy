@@ -1,0 +1,4 @@
+The Complexity of AH-Cut We first turn to theoretical results for AH-CUT. We show that the optimisation version of the problem is APX -hard, and consquently that the decision version is NP-complete, indicating that AH-CUT is not has no polynomial time algorithm, but has no polynomial time approximation scheme, under standard complexity theoretic assumptions. Under the parameterized complexity framework however we show that AH-CUT is fixed parameter tractable with a 2 O(dk) zDV D 3 time algorithm. 
+
+
+Section:results and discussion

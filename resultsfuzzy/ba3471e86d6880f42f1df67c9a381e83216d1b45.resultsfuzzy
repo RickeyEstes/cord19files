@@ -1,0 +1,4 @@
+In order to define whether a set of attributes is a significantly better predictor than another set, we can imagine a random machine with characteristics similar to one of our predictors. Let us consider a method that emits either correct predictions with probability P or incorrect predictions with probability 1 − P. This method's percentage of correct predictions will have mean 100 × P and standard deviation 100  
+
+
+Section:statistical significance of the results

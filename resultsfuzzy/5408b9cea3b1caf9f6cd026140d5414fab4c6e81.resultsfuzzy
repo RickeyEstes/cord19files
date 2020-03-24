@@ -1,0 +1,4 @@
+All susceptible agents (either regular or super-spreaders) are located on an L × L space, and their positions are randomly assigned at the beginning and fixed during the entire simulation (see Figure 3 ). One infected agent (the index case) is randomly located on the bottom of the simulated space (all other agents are S status). A Monte Carlo simulation is carried out with 1000 trials using the same set of parameter values. The averaged output of 1000 runs (or distributions) is presented from our numerical simulations. Baseline parameter values are given in Table 1 .  
+
+
+Section:simulation results

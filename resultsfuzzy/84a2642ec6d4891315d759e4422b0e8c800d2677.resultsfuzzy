@@ -1,0 +1,4 @@
+In this section, we conduct experiments on both synthetic and real-world data to exhibit the performance of the proposed approach. In addition, the true positive rate ( TP ) and the false alarm rate ( FA ) are used to evaluate the performance of the anomaly detection approaches. They can be calculated as follows: where DO, AO, FDO , and ADO denote the numbers of detected real anomalies, all real anomalies, falsely detected anomalies, and all detected anomalies, respectively. 
+
+
+Section:experiments and analysis of results

@@ -1,0 +1,4 @@
+Reliability is an important aspect of the development of a health monitoring method. Heart rate measurement error within five bpm is an acceptable error margin [29] . Feasibility of a method to operate at realistic situations would enable the method to be sustainable. The experiment was conducted to investigate the effect of four real-world situations; effect of Illumination variance, motion variance, and the effect of different skin tones of the subject and finally to verify the feasibility to perform health monitoring for surveillance purpose. The MANHOB-HCI database was used to benchmark the methods and to demonstrate that the methods were correctly re-implemented by us. The neutral session of the feasibility study database was used to investigate the reliability of the methods, operating from a controlled environment to realistic environment. 
+
+
+Section:results and discussion
