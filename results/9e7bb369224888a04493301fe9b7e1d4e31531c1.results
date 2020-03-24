@@ -1,0 +1,1 @@
+To compare our simulation results, we used networks with the same mean degree (8) and a constant rewiring probability (ρ = 0.01) for the WS networks. The SIR-type models were characterized by a transmission rate of 0.01 per contact, a removal rate γ = 2.8 year −1 and sampling probability p = 1, unless specified otherwise. 

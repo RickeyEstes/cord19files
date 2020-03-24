@@ -1,0 +1,1 @@
+The simulation generates full-length HA sequences for each infected individual. We simulate the first 100 000 infections of an epidemic, which for most simulations corresponds to 40 or more days in chronological time. For comparison, the empirical BSP in figure 1 covers the 40 days between 7 April and 17 May 2009. 

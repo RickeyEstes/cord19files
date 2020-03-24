@@ -1,0 +1,1 @@
+The main goal of this study was to build a ML model that could distinguish ODNs that have high activity for mTLR9 from ODNs with low activity. We used 117 ODNs with known high mTLR9 activity, as positive examples while 274 ODNs with low activity were used as negative examples. 

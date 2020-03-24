@@ -1,0 +1,1 @@
+We have developed a modular structured tool named TAR-VIR for reconstructing viral haplotypes from metagenomic data. The final outputs of this tool are assembled viral contigs corresponding to different strains. We focus on evaluating the performance of the read recruiting stage and also its impact on the final assembly. 
