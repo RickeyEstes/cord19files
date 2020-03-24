@@ -1,0 +1,4 @@
+In practical drug design and development, usually the basic structure of drug candidates keep constant, only small modifications are made on several fragments. The structure parameters of the entire molecules cannot clearly describe the detailed characters of the small changes at individual fragments or substitutes. In the 2L-PCA model the molecular structures are separated into several fragments, and are described by a set of fragment parameters. An example of molecular structure and its fragments is shown in Figure 4A . The idea of molecular fragments also can be applied to the peptide drugs, in which each side chain of an amino acid is a fragment, as shown in Figure 4B . 
+
+
+Section:materials and methods

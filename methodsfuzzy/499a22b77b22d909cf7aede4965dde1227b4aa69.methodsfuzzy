@@ -1,0 +1,4 @@
+Unlike the previous studies that used the ordinary least squares regression, this study uses panel regression tests to carry out all examinations. Hsiao (2003) and Klevmarken (1989) list several benefits of using panel data. First, panel data can control for an individual firm's heterogeneity. Second, panel data give more informative data, less collinearity among the variables, more degrees of freedom and more efficiency. Third, panel data can better study the dynamics of adjustment. Fourth, panel data can better identify and measure effects that are simply not detectable in pure cross-section or pure time series data. Further, three estimation methods (pooled ordinary least square, fixed effects and random effects) are tested and performed to ensure that all estimation results are unbiased. 
+
+
+Section:panel data methodology

@@ -1,0 +1,4 @@
+Nucleic acid preparation 218 SARS-CoV-2 target sequences were designed using all available genomes 219 available from GISAID 21 as of January 27, 2020. Briefly, viral genomes were aligned 220 using Clustal Omega. Next, LbCas12a target sites on the SARS-CoV-2 genome were 221 primer that contained a T7 promoter. Next, the PCR product was used as the template 231 for an in-vitro transcription (IVT) reaction at 37°C for 2 hours. The IVT reaction was then 232 treated with TURBO DNase (Thermo) for 30 minutes at 37°C, followed by a heat-233 denaturation step at 75°C for 15 minutes. RNA was purified using RNA Clean and 234 
+
+
+Section:methods 217

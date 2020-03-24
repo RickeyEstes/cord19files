@@ -1,0 +1,4 @@
+Uncertainties of the model were estimated according to variations in the adopted parameters. A tornado diagram of minimum and maximum values was used for univariate sensitivity analysis. Sensitivity-enhancing model parameters were chosen for bestand worst-case scenario analyses. Probabilistic sensitivity analysis was performed using Monte Carlo, employing a 10,000 simulation count and threshold analysis to identify the maximum cost of the technology, all other parameters unchanged (ceteris paribus). We used variables as distribution; beta distribution was adopted for probabilities and outcomes, gamma for costs, and log-normal for relative risk (Bilcke et al., 2011) . 
+
+
+Section:analytical methods

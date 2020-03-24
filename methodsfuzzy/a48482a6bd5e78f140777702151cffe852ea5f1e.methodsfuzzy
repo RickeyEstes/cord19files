@@ -1,0 +1,4 @@
+The complete genome sequences of E. festucae (E2368, version 4) were obtained from Genome Projects at University of Kentucky [45] . CDS (Coding DNA sequences) were downloaded from GenBank [46] . To improve the quality of sequences and minimize sampling errors, CDS were filtered based on the following considerations: (i) the presence of a start codon at the beginning and a stop codon at the end of each CDS was required; (ii) each CDS had to be greater than 300 nucleotides in length; and (iii) duplicated sequences (exact matches) were detected and excluded from the dataset. As a result, 4870 CDS were used for further analysis. 
+
+
+Section:materials and methods

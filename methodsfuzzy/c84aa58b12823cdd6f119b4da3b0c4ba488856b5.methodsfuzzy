@@ -1,0 +1,4 @@
+Overall, 50.5% of the studies used correlation analyses, 41.3% used regression analyses, 25.6% used machine learning techniques, and 19.3% used descriptive analyses. Linear regression analyses were the most frequently used type of regression analysis. Generous et al. [25] used a linear regression model to examine the potential of Wikipedia access logs as an emerging data source for global disease surveillance and forecasting. Machine learning techniques have prominently been used since 2014, and support vector machine has been the most frequently used. Adrover et al. [26] assessed whether adverse effects of HIV drug treatment and associated sentiments can be determined using Twitter. They utilized boosted decision trees, support vector machines, and artificial neural networks as machine-learning classifiers. 
+
+
+Section:7) analytic methods

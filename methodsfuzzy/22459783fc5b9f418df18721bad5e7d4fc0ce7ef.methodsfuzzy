@@ -1,0 +1,4 @@
+The analysis platform was PC server based on P4 ultra thread technological CPU and the operating system was Windows XP. Clu-stalW version 1.83 was used for multiple sequence alignments. Tree-View (Win32) version 1.6.6 and MEGA 2.0 were used to draw phylogenetic tree. DNASP 4.0 was used to analyze single nucleoside polymorphism. The SARS-CoV sequences were arrayed with Clu-stalW program, and alignment was further manually examined and adjusted. Only those variant sequence loci that were present in at least two independent sequences were selected for further analyses [13, 18, 19] . Deletion and insertion in SARS-CoV genomes and the neutral mutation in the spike protein gene, etc., were also estimated. The latest version (NC_004718) of the first submitted SARS-CoV genome sequence (SARS-CoV TOR2, AY274119) was used as the control reference. 
+
+
+Section:analysis platform tools and methods

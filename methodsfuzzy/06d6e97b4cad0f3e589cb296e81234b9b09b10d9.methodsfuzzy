@@ -1,0 +1,4 @@
+A possible numerical scheme is to perform a standard primal/ dual gradient descent/ascent (Reinbacher et al., 2010) . While simple, these methods tend to oscillatory behavior and require costly projections at every iteration step to fulfill the area-constraint. 6 We instead use the alternating direction method of multipliers (ADMM) (Boyd et al., 2010) for the solution of the optimization problem. The basic idea of this method is to split a problem into smaller sub-problems while making use of the method of multipliers developed to solve constrained optimization problems (the augmented Lagrangian approach). This decomposition simplifies the solution process for the area-constrained segmentation problem by breaking it into simpler sub-pieces. It also allows for the computation of a finite-valued dual energy estimate, which serves as a lower bound for the branch and bound algorithm. 
+
+
+Section:alternating direction method of multipliers

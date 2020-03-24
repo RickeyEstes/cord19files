@@ -1,0 +1,6 @@
+It applies the same statistical procedure as GL except for the assumption that the case numbers follow Poisson distribution. Yt0a'bt'c1sin(2pt=52)'c2sin(4pt=52)'c3sin(6pt=52)' d1cos(2pt=52)'d2cos(4pt=52)'d3cos(6pt=52)'at; where Yt is the expected number of cases in week t, and at is the random error. A signal was generated when the case number exceeded the 95% confidence limit for the prediction value from the above three methods. A signal was created when the case number exceeded the baseline mean, i.e., mean of previous two weeks, plus three standard deviations. Historical Limit method (HL) Similar procedures applied as CuSum except that data for the prior 8 weeks of the last year were used as the baseline. Negative Binomial CuSum method (NBC) Prior 8 weeks of data excluding current week were used to calculate the baseline mean and variance, which derived the NBC parameter. A signal occurred when the parameter exceeded the threshold value. For the purpose of evaluations, an outbreak week was defined as any week that had over two outbreak-related cases during the study period. 
+
+
+Section:poisson method (po)
+Section:time series method (ts)
+Section:cumulative sum method (cusum)

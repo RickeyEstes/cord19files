@@ -1,0 +1,4 @@
+The same 235 bacterial genomes (based on genome names) that were used by Elhaik et al. in [5] were analyzed. The data in Table S1 in ref. [5] contain numerous mistakes. The Table S1 contains 4 columns, genome name, size, GC content and ID. Eighteen IDs correspond to plasmids, not genomes. These IDs are: NC_007410, NC_006873, NC_004943, NC_003080, NC_007414, NC_007515, NC_007801, NC_007483, NC_007274, NC_007336, NC_007901, NC_007641, NC_006855, NC_007608, NC_005951, NC_006663, NC_005229 and NC_004554. Calculation of genome length and GC content is incorrect for many genomes. For instance, the calculated GC content for B. fragilis YCH46 (NC_006347) was 33.50% [5] , while the correct number is 43.27%. The calculated GC content for C. acetobutylicum ATCC 824 (NC_003030) was 37.00% [5] , while the correct number is 30.93%. 
+
+
+Section:materials and methods

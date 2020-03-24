@@ -1,0 +1,4 @@
+A Pearson correlation based naïve approach was designed for comparison to the module level analysis. The approach involved computing correlations-independently for each peptide and transcript-on the overall pathology score phenotype. This produced two ranked lists for peptides and transcripts, each with both positive and negative correlations. The naïve top ranked entities were compared to the rankings within modules. For comparison to the enrichment results, members of the ranked lists were selected from the most negative and most positive correlations separately, with size equal to the mean module sizes for the peptide and transcript networks (151 peptides and 130 transcripts). These selections were used for gene ontology enrichment using the same method as described in Constructing the Integrated Bipartite Module Graphs. 
+
+
+Section:naïve method based on correlation for comparison to the module level analysis

@@ -1,0 +1,4 @@
+UniProtKB 24 database was used for the retrieval of the sequences of RNA-dependent RNA polymerase-L 25 and 27 was used for the identification of the conserved region among the sequences through multiple-sequence alignment (MSA) with ClustalW. 28 Finally, Jalview v2 tool 29 was used to retrieve the alignment and the CLC Sequence Viewer v7.0.2 (http://www. clcbio.com) was used for analysis of the divergence among the different strains of the CCHFV. 
+
+
+Section:materials and methods sequence retrieval and conserved region identification

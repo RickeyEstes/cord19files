@@ -1,0 +1,4 @@
+We simulate the spread of an infectious disease in a network (population) with an exponential degree distribution-as estimated for typical urban populations [46, 52] -using a susceptibleinfected-recovered (SIR) chain-binomial model [41, 53] with an additional immunized state. At each time step, individuals decide whether or not to take an instantaneously protective action to avoid infection, based on their perceived risk of infection, as defined by the given local or global decision model. We assume that there are sufficient resources to immediately protect any willing individuals. 
+
+
+Section:materials and methods

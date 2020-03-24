@@ -1,0 +1,4 @@
+We used the Gillespie algorithm to study random interactions occurring in the given system of equations. The stochastic simulation algorithm, suggested by Gillespie [11] , is as follows: For a set of coupled ordinary differential equations we can construct an exact numerical realization of the process X(t): Step 0: Initialize the time t = t 0 and the system's state X(t 0 ) = X 0 . Step 1: With the system in state X at time t, evaluate all the a j (X) and their sum a 0 (X): = S M i = 1 a i (X). Step 2: Draw two random numbers r 1 and r 2 from the uniform distribution in the unit interval, and take Step 3: Replace t ← t + t and X ← X + c j . Step 4: Record (X, t) as desired. Return to Step 1, or else end the simulation. 
+
+
+Section:stochastic simulation methods

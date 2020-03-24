@@ -1,0 +1,4 @@
+The amino acid sequences of the spike glycoproteins were obtained from the Swiss-Protein data bank [1] . The access number is P59594 for human SARS-CoV with 3 point mutations [2, 15, 17, 24] , P15423 for human coronavirus strain 229E with 38 point mutations [3] [4] [5] 10, 12, [20] [21] [22] [23] and P36334 for human coronavirus strain OC43 with 80 point mutations [10, 13, 14, 18] . In order to determine the amino acid pairs probabilistically sensitive to mutations, we conduct the following calculations [25] , which is briefly described follows with the SARS-CoV spike protein as the example. 
+
+
+Section:materials and methods

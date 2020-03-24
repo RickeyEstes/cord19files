@@ -1,0 +1,5 @@
+The prediction method uses types of data selected from studies in the literature that have shown significant correlation with dengue incidence. These data include previous dengue incidence data, remotely sensed meteorological data (i.e., land surface temperature, rainfall), remotely sensed vegetation data, climate data (sea surface temperature anomalies, Southern Oscillation Index), and socio-economic data (population, sanitation). The data sources for the different variables are shown in Table 1 . It should be noted that complex mechanisms and interactions might lead The prediction method performs data mining from a large number of data sources, following the steps shown in Figure 3 . The three main steps are summarized here and described below. 
+
+
+Section:materials and methods
+Section:prediction methodology

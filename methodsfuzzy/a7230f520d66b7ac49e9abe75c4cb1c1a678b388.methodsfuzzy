@@ -1,0 +1,4 @@
+The specificity of the method depends on the value of N and the accuracy of the assay method. If the values of A iX ðjÞ À A iY ðjÞ are obtained simply as Boolean numbers, when N ¼ 20 the shape space would have 2 20 distinguishable points. With an ELISA assay the results are however analogue rather than Boolean, and each coordinate might have 10 distinguishable values. Then already with N ¼ 5 the shape space would have 10 5 distinguishable points, and with N ¼ 20 there would be 10 20 distinguishable points. This theoretical remarkable resolution is expected to be important for applications to diagnostics and vaccines. It can be tested in experiments in which known mixtures of the X(j) reagents themselves are analysed using the method, and the experimentally determined coordinates are compared with the theoretical predictions. 
+
+
+Section:the specificity of the method and the value of n

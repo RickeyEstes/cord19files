@@ -1,0 +1,4 @@
+Summary statistics for virus in lung tissue were compared using Student's t-test. Proportions of mice surviving pathogen challenges were compared using Fisher's exact text, and log-rank comparisons of survival distribution were performed using Kaplan-Meier estimation. All data shown are representative of at least two independent experiments, and were not combined for analysis because of modest differences in virus challenge doses. Analyses were performed using SAS/STAT (SAS Institute). For gene expression analyses, treated and untreated samples were compared to identify treatment-induced gene expression using an ANOVA-based scheme written in R (Free Software Foundation, Boston, MA), utilizing an Illumina library developed by Simon Lin, Northwestern University, Chicago, IL. 
+
+
+Section:statistical methods

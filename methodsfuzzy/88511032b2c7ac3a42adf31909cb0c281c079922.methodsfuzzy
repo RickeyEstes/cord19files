@@ -1,0 +1,6 @@
+Jaques et al. [13] 73.0% Random Forest Jang et al. [10] 84.7% Discriminant Function Analysis Shen et al. [2] 86.3% Support Vector Machine (SVM) Seo et al. [7] 86.7% k-Nearest Neighbors (kNN) Giakoumis et al. [9] 94.2% Linear Discriminant Analysis Mandryk and Atkins [11] , D'Mello et al. [12] , Giakoumis et al. [8] , and Kim et al. [6] Not available Statistical approaches This section describes the methods that we used to collect and analyze physiological data for the classification of boredom. We collected data according to the guidelines of the Declaration of Helsinki [35] . Specifically, we obtained written informed consents from the participants before the data collection, advertised data collection for inviting voluntary participants, explained to the participants that they could quit the experiment anytime they want, and provided snacks as a reward for their participation. The details of the data collection procedure are explained in the following sections. In this section, we describe the procedure for feature extraction and machine learning techniques for analyzing the collected data to classify boredom. 
+
+
+Section:study accuracy method
+Section:data collection methodology
+Section:machine learning methods

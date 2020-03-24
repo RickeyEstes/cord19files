@@ -1,0 +1,5 @@
+-If c = 0 : By putting d = − β N , in the Eq. (16) and according to the variational iteration method described in [30] and [31] we obtain the iterative formula Thus, the exact solution according to the VIM method is given by Applying the iterative formula (19) , we take I 0 = b, then we obtain . . . We recall the fractional Euler method [32] . We consider the fractional problem Then, applying the fractional integral operator D −α 0 ,t to the initial value problem (36) , one can obtain The aim is to approximate the quantity D −α With the Explicit Euler Method [32] , the quantity is approximated by Then, where b j,n +1 = 1 
+
+
+Section:variational iteration method (vim)
+Section:euler method

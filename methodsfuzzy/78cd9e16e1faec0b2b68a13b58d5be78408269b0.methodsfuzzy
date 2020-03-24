@@ -1,0 +1,4 @@
+We combined titers and relative potency (relative titer) estimates as unweighted geometric means (GMs) for each sample and laboratory and used these laboratory GMs to calculate overall unweighted GMs for each sample. We expressed variability between laboratories using geometric coefficients of variation (GCV = [10 s − 1] × 100%, where s is the SD of log 10 transformed estimates). To mitigate the effect of any potential outliers, we calculated robust estimates of s using the R package WRS2 (13). We referred to all participating laboratories by code numbers, which were randomly allocated. If a laboratory returned data using different assay methods, we assayed the results separately for each method and referred to them according to their laboratory number and assay code; for example, 04 ppNT (pseudoparticle neutralization test) and 04 TCID 50 (50% tissue culture infectious dose). 
+
+
+Section:statistical methods

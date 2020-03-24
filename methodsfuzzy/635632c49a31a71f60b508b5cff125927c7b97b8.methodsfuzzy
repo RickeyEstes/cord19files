@@ -1,0 +1,4 @@
+The temperature values mainly included ambient temperature (Ta), inlet fresh air temperature of EATHP ( T in ), outlet fresh air temperature of EATHP ( T out ), and indoor temperature ( T ind ). They are tested and recorded with a PT100 temperature sensor and a paperless recorder. The locations of the major temperature sensors are shown in Fig. 1 . The solar radiation was measured by pyranometers, which was placed at the same angle as the PV modules. The sensitivity of the pyranometer was 9.731 μV/ (W/m 2 ). The voltage and current of the PV system were recorded by a digital multimeter. Air velocity was measured by a digital anemometer thermal wind speed tester air flow meter (AR866). The relative humidity of the inlet and outlet fresh air was measured by humidity sensors (HIH-40 0 0-0 03). 
+
+
+Section:test method

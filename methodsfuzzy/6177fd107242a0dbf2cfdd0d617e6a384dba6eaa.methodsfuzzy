@@ -1,0 +1,4 @@
+Searches for the appropriate samples were made using the Entrez website. Table 4 represents some of the proteins analyzed in this study. Proteins with known X-ray crystal structures were chosen to ensure consistency. Further details of implementation can be found in our previous papers [1, 2, 38] . The data extracted from PDB were placed into the database that enables further development of the JAVA codes to create 3D representation in Jmol [45] . The relational database was modified to allow import and storage of the data from UNIPROT (http://www.uniprot.org/) [46] . A graphical user interface program was implemented using JAVA to allow easy entry of protein details and accession codes. The open-source statistical package, R (http://www.rproject.org/), was used to analyze data. Statistical methods used include MANOVA (Multivariate Analysis of Variance). 
+
+
+Section:materials and methods

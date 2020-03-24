@@ -1,0 +1,4 @@
+An ordinary least square (OLS) regressions was used to test the effects of the three types of communication strategies and online channel on interagency collaboration effectiveness. OLS regressions were applied to similar research that examine the relationship between network effects and outcomes [2, 6, 12] . Six models was estimated including three models for all agencies and three other models for local public health agencies. Although all the models do not have multicollinearity issues (average variance inflation factor < 2), Breusch-Pagan tests show that the first models had issues of heteroscedasticity. We employed robust regressions to address the problem in estimating the first three models. 
+
+
+Section:methods of analysis

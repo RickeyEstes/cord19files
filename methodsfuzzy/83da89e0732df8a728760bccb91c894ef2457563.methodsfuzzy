@@ -1,0 +1,4 @@
+Most dynamic transmission modeling has been performed by using system dynamics, in which transition between compartments is represented by differential equations. With increases in computing power, it has become possible to realize dynamic transmission models by using agent-based approaches in which each member of a population is represented individually [40 -42] . Deterministic compartmental models are useful for modeling the average behavior of disease epidemics in large populations. When stochastic effects (e.g., extinction of disease in small populations), complex interactions between behavior and disease, or distinctly nonrandom mixing patterns (e.g., movement of disease on networks) are important, stochastic agent-based approaches may be preferred. The choice of method may influence the results, and analysts and decision makers should be aware of these effects. 
+
+
+Section:methodological uncertainty

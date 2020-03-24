@@ -1,0 +1,4 @@
+A 3D CFD model based on the Reynolds-averaged NaviereStokes (RANS) equations [14] was used to simulate the bus airflow, temperature and scalar contaminant fields. The CFD model is based on the conservation equations of mass, momentum, energy, scalar concentration, turbulent kinetic energy, and dissipation rate of turbulent kinetic energy, that govern the transport phenomena in the bus. 
+
+
+Section:cfd method

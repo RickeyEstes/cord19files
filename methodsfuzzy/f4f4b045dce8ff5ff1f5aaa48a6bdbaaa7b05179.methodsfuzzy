@@ -1,0 +1,4 @@
+We use a compartmental model to describe the evolution of an individual through several possible states: susceptible, infected, alternative infection, detected and removed. We fit the parameters of the model to the existing data taking into account significant quarantine changes where necessary. 
+
+
+Section:methods:

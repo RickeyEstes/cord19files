@@ -1,0 +1,4 @@
+This section is devoted to describing methods of network construction based on collected bibliographies and analytical methods. We describe a quantification method for structural efficiency given structure to control the whole network, and explain structural properties to explore their relation with structural efficiency. In the process of efficiency calculation, we extract suitable organizations to initiate transformation. This investigation was conducted in the R ver. 3.1.2 environment (R Core Team, 2015) , and used the following add-on packages for convenience: ggplot2 (Wickham, 2009 ) and igraph (Csardi and Nepusz, 2006) . 
+
+
+Section:data and methods

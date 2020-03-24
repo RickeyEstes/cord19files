@@ -1,0 +1,4 @@
+For two unaligned RNA sequences Seq x and Seq y , the single sequence prediction method DotKnot (Sperschneider and Datta, 2010; Sperschneider et al., 2011) returns two stem dictionaries D s (x) and D s (y) derived from the probability dot plot. It also returns secondary structure element dictionaries D L s ðxÞ, D L s ðyÞ and D M s ðxÞ, D M s ðyÞ and H-type pseudoknot candidate dictionaries D p (x) and D p (y) (Fig. 1) . To detect conserved structure elements for the two sequences, a pairwise structural comparison is performed. Instead of a full structure-tostructure alignment, which takes O(n 4 ) time and O(n 3 ) space, pairwise base pair similarity scores are calculated using the RIBOSUM85-60 matrix for base pair substitutions (Klein and Eddy, 2003) . 
+
+
+Section:materials and methods

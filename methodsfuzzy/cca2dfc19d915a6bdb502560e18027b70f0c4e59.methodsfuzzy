@@ -1,0 +1,4 @@
+All assays are treated as binary (responders/non-responders). We use the usual 95% central exact confidence intervals for binomial rates. We are 97.5% confident that the true response rates in the antibody assays are larger than the lower limit. Calculations were done in R version 2.3.1. A positive T-cell response for ICS and ELISpot data was based on composite criteria as previously described in four published studies of candidate vaccines [14] [15] [16] . SAS (Version 9.0; SAS Institute) and S-plus (Version 6.2; Insightful) were used for analyses. 
+
+
+Section:statistical methods

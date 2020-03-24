@@ -1,0 +1,4 @@
+The process of parameter estimation using an optimization approach is similar to other proposed approaches based on leastsquares. However, the novelty of this work lies in (i) the creation of the disease library, (ii) the flexibility in the approach such that it can be applied to forecasting using both a complex individualbased model and a simple SEIR differential equations model, and (iii) the general applicability of the approach to any time series data. The methods and SIMOP procedure are described. 
+
+
+Section:methods and models

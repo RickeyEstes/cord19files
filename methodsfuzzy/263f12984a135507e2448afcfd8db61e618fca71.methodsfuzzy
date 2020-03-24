@@ -1,0 +1,4 @@
+This present paper is built on the predictive regression model of Schmeling (2009) and develops a non-dynamic threshold model that allows for nonlinearity in a panel set-up. Rapach and Wohar (2006) point out that structural breaks in the parameters that relate stock returns to state variables can occur for a number of reasons, such as Pesaran and Timmermann (2002) citing major changes in market sentiment as a possible source of instability in a predictive regression model. We employ a non-dynamic panel threshold model to test the asymmetric effect of investor sentiment on industry returns. However, we do not extend our model to the dynamic threshold model in case of endogenous regressors. We leave this extension of our analysis for future research. 
+
+
+Section:methodology

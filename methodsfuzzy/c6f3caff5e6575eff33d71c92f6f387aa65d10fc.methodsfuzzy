@@ -1,0 +1,4 @@
+To derive a numerical solution for Eqs. (20)-(28) by using the finite volume method, we select a control volume, as shown in Fig. 3 .  Then, The right terms of Eq. (30) can write as following: Substitution of Eq. (31) into Eq. (30) yields: Let K 3 ¼ Àðl w D n w þ l e D n e þ ðe s Þ n P Þ; K 4 ¼ Àðl w G n w þ l e G n e Þ; K 5 ¼ l e D n e ; Following the same procedure as for the water vapor mass conservation, we can derive the discretization equations for liquid water, energy, whole gas and virus. By specifying initial conditions we can calculate the coefficient of the discretization and its right term, the values of water vapor concentration, liquid water fraction, temperature and atmospheric pressure and concentration of virus at next time can be obtained. 
+
+
+Section:numerical method of the model

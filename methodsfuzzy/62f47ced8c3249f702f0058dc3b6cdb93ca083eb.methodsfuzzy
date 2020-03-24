@@ -1,0 +1,4 @@
+The detailed workflow for DotKnot is shown in Figure 2 . Given an RNA sequence, DotKnot finds sequence fragments with pseudoknot folding potential. These candidates are analysed in terms of their free energy values and credibility in the folded sequence. The output is a (possibly empty) set of detected pseudoknots, which can then be examined closely. 
+
+
+Section:materials and methods

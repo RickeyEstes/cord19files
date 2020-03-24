@@ -1,0 +1,4 @@
+Our deep learning-based drug repositioning models employ mathematical pose (MathPose) and mathematical deep learning (MathDL) to predict 3D poses and protein-ligand binding affinities. The latter is used as a major criterion for searching anti-2019-nCoV therapies from the existing FDA-approved drugs. We first build a 3D 2019-nCoV 3CL protease structure by using homology modeling. A set of SARS-CoV protease inhibitors are docked to the 3D 2019-nCoV 3CL protease structure using our MathPose. The resulting complexes are used as a set of machine learning training. Additionally, a set of protein-ligand complexes from the PDBBind database is collected as another machine learning training set. Our training accuracy in terms of the Pearson correlation coefficient is higher than 0.99 in all deep learning models. 
+
+
+Section:material and methods

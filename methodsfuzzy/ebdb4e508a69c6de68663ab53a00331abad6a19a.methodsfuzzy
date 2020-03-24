@@ -1,0 +1,4 @@
+The simulated sequences were scanned for the presence of PQSs as previously described. The 10,000 counts obtained for each simulation formed the empirical distribution for PQS prevalence under the hypothesis of random assembling of the genome in the SN and ISL models respectively. The mid-P value was calculated using a homemade function. The semiparametric classifier used to assign the virus to its exact class relying on its PQS content was based on the 'multinom' function of the R package 'nnet'. 
+
+
+Section:statistical methods

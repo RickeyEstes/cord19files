@@ -1,0 +1,5 @@
+In this section are reviewed methods that perform 3D reconstruction of different structures identified by analyzing structural heterogeneity at the level of images. Some of these methods use 3D starting models to determine the orientation of images while the other methods, referred to as ab initio methods, use no prior structural information. In this section are reviewed methods that perform 3D reconstruction of different structures identified by analyzing heterogeneity at the level of 3D reconstructions. These methods require one or several initial 3D models and can be classified in the following three groups: multireference classification, classification based on 3D variance analysis, and classification based on maximum likelihood. 
+
+
+Section:2d heterogeneity analysis methods
+Section:3d heterogeneity analysis methods

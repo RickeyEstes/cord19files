@@ -1,0 +1,4 @@
+Protein databases for various taxonomic groups were assembled and searched using BLASTP for best matches to query sets of viral proteins. Results were processed with perl scripts, and displayed in two-dimensional taxonomic group plots. This straightforward method of visually comparing two sets of BLAST scores for a set of proteins has been utilized previously to compare proteins of a single genome to the proteins of two other genomes (NCBI, 2006; Rasko et al., 2005) , and to compare proteins of one taxonomically grouped set of genomes to the proteins of two other taxonomically grouped sets of genomes (Lefkowitz et al., 2006) . 
+
+
+Section:materials and methods

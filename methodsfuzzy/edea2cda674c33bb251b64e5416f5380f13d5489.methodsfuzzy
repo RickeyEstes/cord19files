@@ -1,0 +1,4 @@
+Raw Agilent Microarray files were feature extracted Agilent feature extractor version 10.7.3.1. Raw Microarray files were background corrected using the "norm-exp" method with an offset of 1 and quantile normalized using Agi4x44PreProcess [76] in the R statistical software environment. Replicate probes were mean summarized, and all probes were required to pass Agilent QC flags for 75% replicates of at least one infected time point (41,267 probes passed). This microarray analysis was performed only on animals with a C56BL6/J background; thus it was not necessary to correct for probes with SNPs caused by the genetic variation of the other founder lines. 
+
+
+Section:microarray data analysis/methods

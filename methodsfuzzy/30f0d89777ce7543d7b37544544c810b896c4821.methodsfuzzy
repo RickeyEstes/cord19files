@@ -1,0 +1,4 @@
+We propose a two-stage computational approach to determine possible antimicrobial peptides (AMPs) that can target spike protein of MERS-CoV. The first stage involves database screening of AMPs from APD3 database (http:// aps.unmc.edu/AP/main.php) [15] based on physicochemical properties. The second stage involves the structural bioinformatics studies to analyze the peptide-protein interaction complex of MERS-CoV S protein using the shortlisted AMPs and implement the docking studies in order to determine the interacting residues with greater affinity. The flowchart depicting the methodology employed in this study is shown in Figure 1 . Detailed description of the steps involved is presented in the following subsections. 
+
+
+Section:materials and methods

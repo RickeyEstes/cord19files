@@ -1,0 +1,4 @@
+In this paper, we applied our viGEN pipeline to two case studies as a proof of concept -a dataset of 304 cervical cancer patients, and a set of 50 liver cancer patients, both from the TCGA collection (NCI, 2011) . We first applied the pipeline to the transcriptome of cervical cancer patients to see if we are able to detect the human papilloma viruses. We also performed additional in-depth analyses on a small focused study of liver cancer patients afflicted with Hepatitis B virus. In this cohort, we perform viral-gene quantification, viral-variant extraction and survival analysis. The results from these analyses allowed us to compare experimental and control groups using viral-gene expression data and viral-variant data, and give us insights into their impacts on the tumor, and disease mechanisms. In the following sections, we describe the viGEN pipeline, and the two case studies. 
+
+
+Section:materials and methods

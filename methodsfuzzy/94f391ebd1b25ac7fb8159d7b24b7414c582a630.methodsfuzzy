@@ -1,0 +1,4 @@
+x i = 2 (expansion coefficient), γ = 0.5 (contraction coefficient), and σ = 0.5 (shrinkage coefficient). The modified version of the Nelder-Mead algorithm is also given in Algorithm S2. The algorithm proposes new values for the transmissibility, in addition to the probability values for the incubation and infectious period distributions. The probabilities must be non-negative and sum to one independently for the incubation and infectious periods.  
+
+
+Section:modified nelder-mead simplex method

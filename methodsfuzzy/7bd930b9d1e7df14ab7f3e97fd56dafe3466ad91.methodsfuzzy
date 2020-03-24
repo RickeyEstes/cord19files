@@ -1,0 +1,4 @@
+Our interest is in analyzing the infectious potential of an outbreak in a given hospital ward, for different ventilation configurations and outbreak detection hypotheses. We measure the infectious potential in terms of the following discrete random variable: R = number of infections occurred until the end or declaration of the outbreak, which can take values in {0, 1, 2, . . .}. R is used here as a measure of how well ventilation can act as a preventive infection control strategy that is in place even before the actual detection of the outbreak by healthcare workers occurs and reactive strategies can be implemented. 
+
+
+Section:methodology

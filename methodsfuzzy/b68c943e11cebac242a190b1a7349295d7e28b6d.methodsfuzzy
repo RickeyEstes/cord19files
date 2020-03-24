@@ -1,0 +1,4 @@
+The atomic coordinates of SARS-CoV main proteinase were downloaded from Protein Data Bank (ID 1Q2W). NCI program 4 was used to identify noncanonical interactions. VAST (http://www.ncbi.nlm.nih.gov/ Structure/VAST/vastsearch.html) and DALI (http:// www.ebi.ac. uk/dali/) programs were used to find similar structure patterns and in the main proteinase structure of SARS-CoV. The structure alignment was done by CE 5 and the structural comparison was performed by LGA. 6 The constituents of the binding pocket are determined by those residues that have at least one heavy atom (other than hydrogen) with a distance less than 5 A from a heavy atom of inhibitor, as did in Chou et al. 7 The visualization of 3D structure was generated Keywords: SARS-CoV; Main proteinase; Noncanonical interactions; Inhibitor; Binding. by PROTEINEXPLORER (http://www.proteinexplorer.org). 
+
+
+Section:materials and methods

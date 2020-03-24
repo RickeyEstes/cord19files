@@ -1,0 +1,4 @@
+In summary, our proposed method works as follows: at the first step of the algorithm, numbers of particles with their velocities are generated randomly. Each particle represents an irregular scanner which encompasses set of regions in the studied map. In the second step, for each particle, the regions inside its corresponding scanner should be considered. If the selected regions for each particle are connected regions, and the population of the selected regions is less than or equal to 50% of the total population of the studied map, then the fitness value (LLR(z)) should be calculated. Next, the pbest and lbest for each particle should be updated and based on their values the velocity will be updated using (5), and then the particle position can be updated using (4). Table 2 shows the pseudo-code of the method. 
+
+
+Section:overall scheme of the proposed method

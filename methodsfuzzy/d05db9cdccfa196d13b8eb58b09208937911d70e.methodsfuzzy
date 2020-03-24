@@ -1,0 +1,4 @@
+used to predict the preferred orientation of ligand molecule to the receptor molecule in their stable complex form 56 . It can be also used to predict the binding affinity between these two molecules in terms of scoring function. As mentioned in the previous section, TLRs having the capability to recognize the Plasmodium ligands and P. falciparum primes the human TLR-4 response towards high proinflammatory cytokine profile 48 . Therefore, TLR-4 was selected as receptor and its PDB file (PDB id: 4G8A) was obtained from RCSB-Protein Data Bank while the refined model of vaccine protein was used as a ligand. Protein-protein docking was performed using the ClusPro 2.0: protein-protein docking server, to check the binding affinity between them 57 . 
+
+
+Section:molecular docking of vaccine constructs with tlr4. molecular docking is a computational method

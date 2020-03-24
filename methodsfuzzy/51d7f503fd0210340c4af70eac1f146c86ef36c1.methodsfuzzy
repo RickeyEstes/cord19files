@@ -1,0 +1,4 @@
+Linear regression analysis was used to find the correlation between codon usage bias and nucleotide composition. One tailed t-test was used to compare the variation of codon usage between different gene groups (Ewens and Grant, 2001) . As a null hypothesis, it is assumed that mean values of codon usage indices in different gene groups is statistically the same. Under the null assumption, t-statistic could be calculated. Then, P-value is derived and it is taken as significance when P-value is below 0.05. A C++ program was developed to calculate the codon usage indices for each gene. CA and other statistical analysis were performed with statistical software SPSS 11.0. 
+
+
+Section:statistical methods

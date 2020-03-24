@@ -1,0 +1,4 @@
+Risk factors analysed in this study included geographic regions (North-East, South, Mid-West, West), age, breed (Quarter horse, Warmblood, Thoroughbred, Paint horse, Arabian, Draft horse, Pony/miniature, other), sex (female, gelding, male) and use (competition, ranch/farm, breeding, other). Age was analysed in 5-year increments as a categorical variable. Univariate logistic regression (controlling for the random effect of farm of origin) of each prevalence factor was performed to determine the odds ratios associated with region, age, breed, sex and use. Further, a mixed effects logistic regression model was developed to include significant risk factors and the random effects parameter of horses originating from the same farm. All statistical evaluations analyses were performed in Stata 12 (Stata statistical software, Version 12) and statistical significance was set at P < 0.05. 
+
+
+Section:statistical methods

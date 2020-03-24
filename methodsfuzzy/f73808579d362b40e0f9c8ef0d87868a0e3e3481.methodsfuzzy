@@ -1,0 +1,4 @@
+To better reflect the accuracy of the algorithm proposed in this paper, the computational results of the PRSA algorithm are compared with seven state-of-the-art algorithms, including HotKnots [11] , IPknot [16] , TT2NE [20] , CombFold [21] , RnaStructure [22] , CyloFold [23] and RNAflod [24] . Among these algorithms, the Hot-Knots algorithm and the IPknot algorithm use heuristic ideas to predict the secondary structure. The names of the seven algorithms and the website links to the algorithm-based Web sites are listed in Table 3 . 
+
+
+Section:comparison with existing methods

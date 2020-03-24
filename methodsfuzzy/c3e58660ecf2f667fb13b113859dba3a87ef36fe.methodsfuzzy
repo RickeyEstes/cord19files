@@ -1,0 +1,4 @@
+2.1. Structure of U Codes. U codes can be divided into three components (Table 1) : Korean medicine disorders (U20-U33), Korean medicine patterns (U50-U79), and four constitution medicine patterns (U95-U98). Because the U codes were created to define disorders or patterns that could not be defined using the disease classification system of Western medicine presented in KCD 6, the disorders and patterns in the U codes do not correspond directly to disease names in the KCD. Therefore, to incorporate the U codes into the burden of disease algorithm of the KCD, the underlying disorders and diseases in Western medicine were analyzed in this study using a data-based approach, via a redistribution algorithm of U codes into KCD 6 codes. 
+
+
+Section:materials and methods

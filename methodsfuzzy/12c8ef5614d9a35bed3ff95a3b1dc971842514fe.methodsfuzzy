@@ -1,0 +1,4 @@
+All Materials and Methods are described in Supplementary Information in detail. PSCNV genome and its variants in S. mediterranea RNA-seq data. PSCNV genome was assembled based on contigs identified in two de novo transcriptomes of S. mediterranea (24) by comparison with genome of human coronavirus OC43 (KY014282.1) using tblastx (BLAST+ v2.2.29 (56)); termini of the assembly were completed by contigs from the two transcriptomes and planarian EST clones (26) , identified by similarity to the incomplete assembly using blastn, and 5'-RACE amplicons. Reads from planarian RNA-seq datasets: inhouse ones used to assemble the two transcriptomes, and the ones available from EBI ENA (57) , were mapped to the PSCNV genome sequence by either CLC Genomics Workbench 7, or Bowtie2 version 2.1.0 (58); read counts and coverage were estimated using SAMtools 0.1.19 (59) , genome sequence variants were called by BCFtools 1.4 (60) . 
+
+
+Section:materials and methods

@@ -1,0 +1,4 @@
+Peplomer model building has been performed on the basis of the structures of the S1 and S2 domains of the SARS-CoV spike protein which are available in the Protein Data Bank [10] : the structure models 1Q4Z and 1U4K have been used for S1 and S2, respectively. Docking of the two domains has been manually performed and the reliability of each of the possible peplomer assemblies has been discussed according to the ProsaII software package [11] . Accordingly, quaternary structures exhibiting the lowest energies for atom pair and solvent interaction were considered for further optimisation by using molecular dynamics simulations with Gromacs [12] . After a PROCHECK analysis of the final refined peplomer structure it has been deposited in the Protein Data Bank with the ID code 1T7G. All displays of structures, as well as exposed surface area (ESA) calculations, were carried out with the program MOLMOL [13] . 
+
+
+Section:materials and methods

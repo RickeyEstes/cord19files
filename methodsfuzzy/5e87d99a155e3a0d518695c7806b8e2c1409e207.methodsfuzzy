@@ -1,0 +1,4 @@
+Interface terminology codes and SNOMED CT ids are the two main data storage methods and each has its advantages and disadvantages. The use of interface terminology codes in patient records is less invasive method as minimal changes will be made to the database backend and historical patient records can remain unchanged. Any changes made to SNOMED CT will only need to be reflected in the mapping tables. On the other hand, storing SNOMED CT ids directly will enable decision support systems to be sup-ported directly without the need of interface terminology mapping tables and will not require the maintenance of the interface terminology. 
+
+
+Section:select a data storage method

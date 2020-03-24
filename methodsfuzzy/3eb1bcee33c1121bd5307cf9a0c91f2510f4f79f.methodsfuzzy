@@ -1,0 +1,4 @@
+PHISTO: a web-based tool for retrieval and analysis of PHI networks Pathogen-host interaction search tool (PHISTO) was developed by our group due to the lack of a comprehensive PHI database in the Web [16] . It stores the up-to-date PHI data for all pathogen types for which experimentally-found PPIs with human are available. PHISTO also provides integrated bioinformatic tools for visualization of PHI networks and topological/functional analysis of pathogen-targeted human proteins through its user-friendly interface (www.phisto. org). Ongoing studies on PHISTO are for covering experimental PHI data belonging also to other mammalian species as host organism. 
+
+
+Section:materials and methods

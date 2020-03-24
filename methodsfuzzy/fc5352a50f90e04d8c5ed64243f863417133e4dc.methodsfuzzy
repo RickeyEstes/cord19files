@@ -1,0 +1,4 @@
+Machine learning methods were used to find the important factors associated with viral infections. The experiments were implemented using R programming language. The machine learning methods such as support vector machine, naïve Bayes, conditional inference tree, J48 and logistic regression were used to find the important predictors. The variable importance associated with the factors serves as an indicator of the importance of the factors associated with the recovery from MERS Co-V infection. Univariate and multivariate analysis were carried out using logistic regression to identify the statistically significant factors. 
+
+
+Section:methods used

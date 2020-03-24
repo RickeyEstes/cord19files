@@ -1,0 +1,4 @@
+The equations above are discretized into algebraic equations by finite volume method and the coupling between velocity and pressure is solved by the SIMPLE algorithm [10] . In the course of discretization, the power law scheme and the second-order central difference are, respectively, implemented for the convection and diffusion terms. The resulting set of discretized equations for each variable are solved by a line-by-line procedure, combining the tri-diagonal matrix algorithm (TDMA) and the linear under-relaxation iteration. Non-uniform staggered grid system is employed with denser grids clustering near the bounded walls so as to resolve the boundary layer properly. A well-validated CFD program developed by the authors, STACH-3 [4] , which utilized the simplified methodology mentioned above, is used as the simulation tool. 
+
+
+Section:numerical methods

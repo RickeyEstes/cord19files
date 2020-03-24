@@ -1,0 +1,4 @@
+Since the breathing flow is transient and periodic, the phaseaveraged method should be used to analyze the result rather than the time-averaged method [27] . In this study, one breathing process was broken into 40 phases, 20 phases for exhalations and 20 phases for inhalation. The thermal manikin experienced 75 breathing process. The mean velocity for each phase was obtained by Equation (1): Here, u 4 is the mean velocity, 4 represents a given phase, and N is the total number of the periods, equals to 75 in this study. u 4 (n) is the instantaneous velocity of a given phase in the nth period. considered to be the same as that at the exit of the mouth for exhalation. In the region of x/d ! 0.224, the measured data was accurate enough to analyze the flow characteristics, whereas in the region of x/d < 0.224, the accuracy of the measured data was poor. 
+
+
+Section:phase-averaged method

@@ -1,0 +1,4 @@
+where Γ u is the neighbors of node u and infected probability µ is estimated by IAIP 47 model (Iterative Algorithm for estimating the Infection Probability) [23] . Since an 48 infected node always attempts to infect its susceptible neighbor once time and a 49 recovered node doesn't infect any of its susceptible neighbor, so, in Eq. (1), for node v, 50 it is reasonable to assume that P v (t) = 1 for infected node and P v (t) = 0 for recovered 51 node. For susceptible node u, the probability to be infected at time t is P u (t). 
+
+
+Section:materials and methods

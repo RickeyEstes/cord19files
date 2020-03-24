@@ -1,0 +1,4 @@
+The objective in this study is to assess the performance of the methods in identifying the onset of RTI outbreaks. We considered that the onset of an outbreak corresponds to the first aberrant value according to the reference standard classification. In this regard, we applied the simple regression and CUSUM models for detection of an outbreak at week t, only if the observations for the prior m-week interval were all classified as non-aberrant by the reference standard classification. This rule we applied satisfies the simple regression and CUSUM assumptions for normally distributed observations and in-control processes, respectively. By taking this action, an unavoidable consequence is the reduction of the total amount of runs for the methods. 
+
+
+Section:details for the application of the methods

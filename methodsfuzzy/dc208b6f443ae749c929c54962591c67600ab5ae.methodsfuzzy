@@ -1,0 +1,4 @@
+Three networks were constructed based on epidemiological data collected during the outbreak: a 'contact network' of horse movements between all premises infected during the first 10 days of the outbreak; a 'proximity network' based on a distance matrix between these infected premises; and a 'contact-and-proximity network' constructed by combining the contact network with the proximity network. Characteristics of these networks were analysed and compared to identify key characteristics of the spread during the early phase of this epidemic. 
+
+
+Section:materials and methods

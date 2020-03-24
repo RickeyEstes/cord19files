@@ -1,0 +1,4 @@
+Two web-available computer programs, Mapitope [15] and Pep-3D-Search [16] , were applied to predict the AVFluIgG01 epitope based on the selected peptides (mimotopes) from the random phage display library. The algorithm of Mapitope is based on the assumption that the epitope is separated into several amino acid pairs (AAP) contributing for the binding to the antibodies and the entire set of peptides is enriched with AAP which mimic the genuine epitope. In Pep-3D-Search, a promising ACO (Ant Colony Optimization) algorithm was proposed to search matching paths on an antigen surface with respect to the query mimotopes or a motif. Both tools are validated for mapping a conformation-dependent epitope based on the affinity-selected mimotopes. 
+
+
+Section:computational methods

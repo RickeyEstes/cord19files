@@ -1,0 +1,4 @@
+The complexity analysis of the AH-CUT problem employ standard complexity theory techniques [11, 12] . The NCI60 cancer dataset was drawn from the NCI60 anticancer drug screening program data [20] and the gene expression data for the cell lines was given by Ross et al. [15] . The tissue dataset is drawn from Su et al. [17] . The synthetic dataset was generated using the methods of Laan and Pollard [18] . For the comparisons we use Gene Cluster's implementation of k-MEANS [4] (http://bonsai.ims.u-tokyo.ac.jp/,mdehoon/ software/cluster/software.htm#ctv), Dhillon et al.'s Graclus software [9] (http://userweb.cs.utexas.edu/users/dml/Software/ graclus.html) and Shi and Malik's implementation of NORMALIZED CUT [1] . All experiments were performed on a Dell laptop with a 1.67GHz processor and 2GB of RAM with the software written in Java. 
+
+
+Section:materials and methods

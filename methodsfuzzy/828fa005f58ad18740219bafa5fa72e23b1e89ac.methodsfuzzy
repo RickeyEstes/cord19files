@@ -1,0 +1,4 @@
+Phylogenetic tree construction Distance-based and character-based approaches can be used in phylogenetic tree reconstruction. Distance-based methods measure pairwise differences among sequences and generate the tree from the resultant distance matrix (e.g., UPGMA, Neighbour Joining). Character-based methods evaluate all possible trees and estimate the one that best fits the data. This approach includes maximum likelihood (ML) and Bayesian methods (e.g., phyML [67] , RaxML [68] , MrBayes [69] ). 
+
+
+Section:. molecular evolution in viruses: methods and caveats

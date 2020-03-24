@@ -1,0 +1,4 @@
+For each virus a linear mixed-effects model was fitted by restricted maximum likelihood, assuming that the electron microscope signal intensity was determined by the membrane phosphate peaks (inner or outer) and particle type (virus, GP vesicle, or empty vesicle), including cross-effects. The sample region, particle and micrograph were included as nested random effects. Model fit was deemed acceptable by inspection of Q-Q plots. Significant differences in the mean signal value were subsequently evaluated using Tukey contrasts, to allow for multiple comparisons.  
+
+
+Section:statistical methods

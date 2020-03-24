@@ -1,0 +1,4 @@
+HCoV-NL63 genotype A and B sequence sets were prepared from GenBank plus the Kilifi HCoV-NL63 sequences. KMC3 [41] was used to identify all 30-nt sequences (k-mers) present in genotype A sequences and not in genotype B sequences and vice versa. Quality-controlled short read sequences from each sample were then classified as HCoV-NL63 genotype A or genotype B based on the read's content of genotype A and B-specific 30-nt kmers using a threshold of 20 kmer per read as defining identity to a genotype. Results were reported as number of HCoV-NL63 reads (or fraction) classified as each genotype. 
+
+
+Section:k-mer method of genotype classification

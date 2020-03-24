@@ -1,0 +1,4 @@
+The principle of the method relies on the translation of medical linguistic information collected during the consultation into a visual signal. To do so, the first step is to encode that information using standardized medical terminology. For this study, we chose the International Classification of Primary Care, 2 nd version (ICPC-2), which was specifically developed to code the clinical consultations patients in general practice. Then, these code counts, corresponding to number of consultations with those symptoms, are presented within a graphic reference frame, which contains all the codes of the terminology ordered in such a way as to mimic body anatomy. This ordering facilitates the epidemiology watcher's interpretation of the images, that we call ICPCviews. 
+
+
+Section:outline of the method

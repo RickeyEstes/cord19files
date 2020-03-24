@@ -1,0 +1,4 @@
+Maximum-likelihood (ML) phylogenetic trees were inferred from the sequence alignments by using PhyML version 3.0 (15). Phylogenies inferred from nucleotide and amino acid sequences used the general-time reversible and Whelan-and-Goldman substitution models, respectively. A discrete-γ distribution of 4 rate categories (Γ 4 ) was used to model among-site heterogeneity. The robustness of the tree topology was assessed by bootstrap analysis of 1,000 pseudo-replicates of the sequences. 
+
+
+Section:phylogenetic methods

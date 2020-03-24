@@ -1,0 +1,4 @@
+In this appendix we apply the homotopy analysis method [56] to obtain a numerical analytical solution for fractional system (3.2). We choose the base function as {t (n+m)α |n, m ≥ 0}, so the solutions are of the form a n,m t (n+m)α where a n,m , b n,m are the coefficients. It is straightforward to choose N 0 (t) = c 1 , P 0 (t) = c 2 as our initial approximation of N(t) and P(t), and the linear operator is then where A is the integration constant, which is determined by the initial conditions. If q ∈ [0, 1] and h indicate the embedding and non-zero auxiliary parameters, respectively, then the zero-order deformation problems are of the following form: cN(t;q) ). 
+
+
+Section:an approximate analytic solution: homotopy analysis method

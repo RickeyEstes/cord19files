@@ -1,0 +1,4 @@
+The analysis shown in this paper was generated using the RepAnalyse (17) sequence analysis tool which we have developed for this purpose. RepAnalyse uses linear time suffix (18) and LCP (19) array construction algorithms. The uniqueness analysis and simulated reassembly are performed by analysing this suffix array. A technical report (17) for RepAnalyse is available on our website (www.4g.soton.ac.uk) or from the corresponding author. Details of the analysis methods and other applications will be reported elsewhere. Using the algorithms developed for RepAnalyse to process the suffix array we are able to produce the analysis shown far faster than with traditional techniques. Processing the whole human genome uniqueness analysis, required the construction of a full human genome suffix array for both forward and reverse strands, a total of 6.1 · 10 9 symbols. The analysis took two days and 70 Gb of RAM on a 1.6 GHz Itanium2 Processor. 
+
+
+Section:materials and methods

@@ -1,0 +1,4 @@
+A sample of 48 high resolution DICOM images of chest radiographs (25 males and 23 females) were provided by the Hospital General Universitario Reina Sofia de Murcia (HGURSM), Spain, to perform tests. The local Ethics Committees of the HGURSM approved the study, and written informed consent was obtained from the radiologist in charge of the diagnostic procedure at HGURSM. The images have a resolution of 3000 × 3000 pixels and a depth of 12 bits per pixel. In the available images, there are 25 normal (12 males and 13 females) and 23 pathologic (13 males and 10 females) samples. The ages of the subjects range from 15 to 93 years, with an average of 55. The proposed image classification method is described in the following subsections. A global view of the developed system is shown in Figure 2 . 
+
+
+Section:materials and methods

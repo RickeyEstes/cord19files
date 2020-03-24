@@ -1,0 +1,4 @@
+The TaxIt workflow for strain identification consists of several recurring modules interconnected, controlled (in terms of input and output) and automatically executed by the Snakemake computational workflow management system 46 . The designed workflow executes up to three stages including (i) an optional host filter, (ii) species identification (primary iteration) and (iii) strain identification (secondary iteration). A concise overview of the workflow is illustrated in Figure 1 . The main steps of each iteration are the execution of a peptide search engine, false discovery rate (FDR) control, taxonomic classification, taxa counting and adjustment as well as candidate selection and visualization. The automated download of strain proteomes bridges the primary and secondary iteration. The procedures of the main modules are described in detail below. 
+
+
+Section:material and methods

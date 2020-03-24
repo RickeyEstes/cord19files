@@ -1,0 +1,4 @@
+All statistical analyses were performed using R. ORs were estimated using generalized estimating equations (GEE) logistic regression with unstructured correlation and robust standard errors, to take into account multiple samples from the same subject. Survival analyses were done using Cox proportional hazards models. Potential confounders were adjusted for by including them in the regression models. Full details of each analysis and variable definitions are given in the Supplemental Experimental Procedures. 
+
+
+Section:statistical methods

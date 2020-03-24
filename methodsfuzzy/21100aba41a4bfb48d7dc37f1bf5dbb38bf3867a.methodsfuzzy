@@ -1,0 +1,4 @@
+In total, we collected DNA sequences and protein sequences for 15 HCoVs, including three most recent 2019-nCoV genomes, from the NCBI GenBank database (January 28, 2019, Supplementary Table S1). Whole genome alignment and protein sequence identity calculation were performed by Multiple Sequence Alignment in EMBL-EBI database with default parameters. The neighbor joining (NJ) tree was computed from the pairwise phylogenetic distance matrix using MEGA X [77] with 1000 bootstrap replicates. The protein alignment and phylogenetic tree of HCoVs were constructed by MEGA X. 
+
+
+Section:methods and materials genome information and phylogenetic analysis

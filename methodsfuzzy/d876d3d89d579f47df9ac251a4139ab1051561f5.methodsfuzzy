@@ -1,0 +1,4 @@
+Chi-square or Fisher's exact test were used to compare categorical variables and t-test or Wilcoxon methods for continuous variables. Weight, nasal virus titers, and HA1 protein microarray values were analysed via contrasts in a mixed-effects linear model (group, visit and their interaction, with repeated measurements on each animal). For protein microarray values, analyses were repeated after excluding statistical outliers without substantively affecting main conclusions. Inflammatory scores by individual ferret are presented and combined inflammatory scores and cytokine values at Ch+5 versus Ch+14 were compared via contrasts in a two-way ANOVA model (group, scheduled sacrifice day and their interaction). Observed p,0.05 are described as significant; no attempt is made to correct for multiple inference. 
+
+
+Section:statistical methods
